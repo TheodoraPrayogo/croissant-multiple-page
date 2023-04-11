@@ -22,3 +22,10 @@ p {
 .footer a {
   margin: 0 10px;
 }
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+  padding: 20px;
+}
